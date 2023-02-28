@@ -1,0 +1,19 @@
+body{
+    /* background-image:url(./images/jb-auto-works-chrysler-repair-1-repair-768x768.jpg);*/
+     background-repeat: no-repeat;
+     background-position: center;
+     border-color:bisque
+     /*background-attachment:scroll;*/
+ }
+ h1{
+     color:blueviolet
+ }
+ #para1{
+     color:cornflowerblue;
+     border-style: solid;
+     border-color: blue;
+     color:brown;
+     background-color:burlywood;
+     border-radius: 20px;
+     border-top-style:dotted
+ }
