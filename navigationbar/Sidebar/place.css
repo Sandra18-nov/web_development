@@ -7,6 +7,7 @@
     top-padding:100px;
     top:0;
     bottom:0;
+    margin-left: -10px;
 }
 .Sidebar ul{
     list-style: none;
@@ -90,7 +91,6 @@
 .work{
     margin-left: 60px;
 }
-
-.main-content{
-    background-color: darkmagenta;
+body{
+    background-color:indianred;
 }
